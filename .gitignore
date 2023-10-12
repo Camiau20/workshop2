@@ -1,4 +1,4 @@
-_pycache_
+__pycache__
 data/spotify_dataset.csv
 data/the_grammy_awards.csv
 my_dags/config_db.json
