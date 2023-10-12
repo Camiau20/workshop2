@@ -1,6 +1,3 @@
-__pycache__
-data/spotify_dataset.csv
-data/the_grammy_awards.csv
 my_dags/config_db.json
 my_dags/client_secret.json
 my_dags/credentials_module.json
